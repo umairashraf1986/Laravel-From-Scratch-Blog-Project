@@ -25,5 +25,7 @@ php artisan migrate --seed
 
 ## Admin Credentials
 
+```
 Email: umair.ashraf1986@gmail.com
 Password: umair111
+```
